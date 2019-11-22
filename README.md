@@ -1,5 +1,5 @@
-Grocery CRUD
+Jhon Fredy Saldarriaga Aguilar
 =============
-Grocery CRUD is a PHP and Codeigniter Framework library that creates a full functional CRUD system without the need to customise JavaScript or CSS.
+Prueba práctica.
 
-For more information, visit http://www.grocerycrud.com
+Se hace una aplicación web donde se permita guardar juegos, plataformas, generos y opiniones acerca de videojuegos.
