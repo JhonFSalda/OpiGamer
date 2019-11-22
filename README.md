@@ -1,5 +1,5 @@
-Jhon Fredy Saldarriaga Aguilar
+Login
 =============
-Prueba práctica.
 
-Se hace una aplicación web donde se permita guardar juegos, plataformas, generos y opiniones acerca de videojuegos.
+user: admin@mail.com
+password: 123456
